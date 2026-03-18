@@ -1,6 +1,6 @@
 # estudos-receitas
 
-#  Cozinhando na Juventude — Caderno Temático com NotebookLM
+#  Cozinhando Sozinha — Caderno Temático com NotebookLM
 
 > **Projeto prático da DIO** | Explorando Inteligência Artificial como ferramenta de aprendizagem ativa
 
